@@ -1,5 +1,5 @@
 # MSCSAPC
-## Microsoft Cybersecurity Analyst Professional Certificate
+## Microsoft Cybersecurity Analyst Professional Certificate (9 course series)
 
 Organizations rely on cybersecurity experts to protect themselves from threats, but nearly 60% report security talent shortages.1 Prepare for a new career in this high-demand field with professional training from Microsoft — an industry-recognized leader in cybersecurity.
 
